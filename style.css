@@ -54,3 +54,20 @@ address{
 .unordered{
     margin-top: 40px;
 }
+
+table{
+    table-layout: fixed;
+    width: 1000px;
+    text-align: left;
+    border-collapse: collapse;
+    font-size: small;
+}
+
+thead{
+    background-color: rgb(28, 92, 129);
+    color: white;
+}
+
+.color_tr{
+   background-color:  rgb(1, 159, 250);
+}
