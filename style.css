@@ -15,7 +15,7 @@ header {
 }       
 
 section{
-    width: 700px;
+    width: 1000px;
     margin: auto;
 }
 
@@ -37,4 +37,20 @@ address{
     margin-top: 0%;
     font-weight: 100;
     color: gray;
+}
+
+.image_description{
+    font-size: small;
+}
+
+.loremipsum{
+    margin-top: 40px;
+}
+
+.lorem{
+    background-color: yellow;
+}
+
+.unordered{
+    margin-top: 40px;
 }
