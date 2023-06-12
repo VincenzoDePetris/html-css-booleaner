@@ -1,3 +1,7 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
 header {
     background-image: url("./img/pattern.png");
     background-color: rgb(57, 123, 211);
@@ -13,4 +17,24 @@ header {
 section{
     width: 700px;
     margin: auto;
+}
+
+.title{
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+
+address{
+    color: gray;
+}
+
+.booleaner{
+    color: rgb(50, 162, 236);
+}
+
+.date{
+    font-size: small;
+    margin-top: 0%;
+    font-weight: 100;
+    color: gray;
 }
